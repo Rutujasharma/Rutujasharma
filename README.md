@@ -7,9 +7,7 @@ I am Rutuja, a former Graphic Designer turned Data Analyst, a dedicated and high
 
 Skills: Python/ SQL/ Excel/ Power BI/ Data Pipeline
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: rutujasharma20@outlook.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rutujasharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rutuja Sharma/)  
 
